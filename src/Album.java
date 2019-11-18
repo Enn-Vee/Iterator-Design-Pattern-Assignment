@@ -1,8 +1,13 @@
+
+
+//Assignment github: https://github.com/Enn-Vee/Iterator-Design-Pattern-Assignment
+
 /**
  * Album class which holds songs. Has a name.
- * @author covin
+ * @author Nick Bautista
  *
  */
+
 public class Album {
 	private int count;
 	private String name;

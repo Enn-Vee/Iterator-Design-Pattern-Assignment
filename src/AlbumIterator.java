@@ -1,7 +1,8 @@
 import java.util.Iterator;
+
 /**
  * Iterator for the Song array of object Album.
- * @author covin
+ * @author Nick Bautista
  *
  */
 public class AlbumIterator implements Iterator<Song> {

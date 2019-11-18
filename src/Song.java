@@ -1,6 +1,6 @@
 /**
  * Song object.
- * @author covin
+ * @author Nick Bautista
  *
  */
 public class Song {
